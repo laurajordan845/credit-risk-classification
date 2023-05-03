@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# credit-risk-classification
 Module 20 Supervised Learning Challenge for Laura Jordan
 
 ## Description

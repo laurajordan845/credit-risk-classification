@@ -15,5 +15,5 @@ I attended class, reviewed our in-class activities and read through my notes for
 
 ## Submission Includes
 * Notebook: credit_risk_classification_LJordan.ipynb
-* Readme file with the Credit Risk Analysis: [Link to Analysis](https://github.com/laurajordan845/credit-risk-classification/blob/main/report-template.md)
+* Readme file with the Credit Risk Analysis: [Link to Analysis](https://github.com/laurajordan845/credit-risk-classification/blob/main/analysis.md)
 * Resources folder which houses the lending_data.csv file with the dataset
